@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🖐 I'm Vaibhav Sharma</h1>
 <h3 align="center">Programming | Webdev | Passionate | Currently Learning All The Things</h3>
 
+<img align="right" alt="coding" width=400 href="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">
+
 - 🌱 I’m currently learning **JAVA , kotin**
 
 - 💬 Ask me about **C , C++ , HTML , CSS**
@@ -8,8 +10,6 @@
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
 - ⚡ Fun fact **Ye Bhi Theek Hai 😄**
-
-<div class="tenor-gif-embed" data-postid="21075258" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">Coding Hello World GIF</a> from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
