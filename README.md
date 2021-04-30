@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐 I'm Vaibhav Sharma</h1>
 <h3 align="center">Programming | Webdev | Passionate | Currently Learning All The Things</h3>
 
-<img align="right" alt="GIF" href="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">
+<img align="right" alt="GIF" src="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">
                                                                                                                                                                                  
 - 🌱 I’m currently learning **JAVA , kotin**
 
