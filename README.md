@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **Ye Bhi Theek Hai 😄**
 
+<div class="tenor-gif-embed" data-postid="21075258" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">Coding Hello World GIF</a> from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-sharma-80076b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-80076b15b" height="30" width="40" /></a>
