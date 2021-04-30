@@ -1,8 +1,7 @@
 <h1 align="center">Hi 🖐 I'm Vaibhav Sharma</h1>
-<h3 align="center">Programming | Webdev | Passionate | Currently Learning All The Things</h3>
 
 <img align="right" alt="GIF" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-                                                                                                                                                                                 
+
 - 🌱 I’m currently learning **JAVA , kotin**
 
 - 💬 Ask me about **C , C++ , HTML , CSS**
