@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-- 🌱 I’m currently learning **JAVA , kotin**
+- 🌱 I’m currently learning ** NextJs, kotin**
 
-- 💬 Ask me about **C , C++ , HTML , CSS**
+- 💬 Ask me about **C , C++ , Java , Web devlopoment , WordPress , MERN**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
