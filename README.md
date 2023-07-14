@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-sharma-80076b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-80076b15b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaibhav-sharma-80076b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-80076b15b" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhav_sharma2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vaibhav_sharma2424" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaibhav2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhav2424" height="30" width="40" /></a>
 <a href="https://discord.gg/#8982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#8982" height="30" width="40" /></a>
