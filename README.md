@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ** Spring, kotin**
 
-- 💬 Ask me about **C , C++ , Java , Web devlopoment , WordPress , MERN**
+- 💬 Ask me about **C , C++ , Web devlopoment , WordPress , MERN**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
