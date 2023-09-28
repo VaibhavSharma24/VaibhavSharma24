@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-- 🌱 I’m currently learning ** Spring, kotin**
+- 🌱 I’m currently learning ** Blockchain, ThreeJs**
 
-- 💬 Ask me about **C , C++ , Web devlopoment , WordPress , MERN**
+- 💬 Ask me about **C , C++ , Web devlopoment , WordPress , MERN Stack**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
