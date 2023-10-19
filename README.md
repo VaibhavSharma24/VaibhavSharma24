@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ** Blockchain, ThreeJs**
 
-- 💬 Ask me about **C , C++ , Web devlopoment , WordPress , MERN Stack**
+- 💬 Ask me about **C , C++ , Web devlopoment , MERN Stack**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
