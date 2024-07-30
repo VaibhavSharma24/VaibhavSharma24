@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning ** Blockchain, ThreeJs**
 
-- 💬 Ask me about **C , C++ , Web devlopoment , MERN Stack**
+- 💬 Ask me about **JavaScript, C++, Rust, ReactJs**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
-- ⚡ Fun fact **Ye Bhi Theek Hai 😄**
+- ⚡ Fun fact **Ayee baigan !! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
