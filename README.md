@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/vaibhavsharma-24102003s/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsharma-24102003s" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhav_sharma2424/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_sharma2424" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/24vaibhavsharma24/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="angad1418" height="30" width="40" /></a>
-<a href="https://discord.gg/#8982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#8982" height="30" width="40" /></a>
 </p>
 
 [![An image of @vaibhavsharma24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavsharma24)](https://holopin.io/@vaibhavsharma24)
