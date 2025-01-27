@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ** Blockchain, ThreeJs**
 
-- 💬 Ask me about **JavaScript, C++, Rust, ReactJs**
+- 💬 Ask me about **JavaScript, C++, NextJs, ReactJs**
 
 - 📫 How to reach me **24vaibhavsharma24@gmail.com**
 
